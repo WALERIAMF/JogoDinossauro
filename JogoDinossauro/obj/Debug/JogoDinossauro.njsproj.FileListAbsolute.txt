@@ -1,0 +1,3 @@
+C:\projetos\dinossauro\JogoDinossauro\JogoDinossauro\obj\Debug\JogoDinossauro.njsprojAssemblyReference.cache
+C:\projetos\dinossauro\JogoDinossauro\JogoDinossauro\obj\Debug\JogoDinossauro.njsproj.CoreCompileInputs.cache
+C:\projetos\dinossauro\JogoDinossauro\JogoDinossauro\bin\Microsoft.NodejsTools.WebRole.dll

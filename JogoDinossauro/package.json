@@ -1,0 +1,9 @@
+{
+  "name": "jogo-dinossauro",
+  "version": "0.0.0",
+  "description": "JogoDinossauro",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
